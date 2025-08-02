@@ -1,6 +1,6 @@
 # Talent Scout Platform
 
-A modern web application connecting talented individuals with recruiters and companies. The platform allows talents to showcase their skills and work samples while enabling recruiters to discover and connect with potential candidates.
+"A modern web application connecting talented individuals with recruiters and companies. The platform allows talents to showcase their skills and work samples while enabling recruiters to discover and connect with potential candidates".
 
 ## 🚀 Features
 
@@ -42,3 +42,4 @@ A modern web application connecting talented individuals with recruiters and com
 - **Version Control**: Git
 
 ## 📂 Project Structure
+
